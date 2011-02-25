@@ -1,0 +1,15 @@
+---
+title: "yp's Projects"
+favicon: "favicon.ico"
+nav:
+  - name: Home
+    link: "index.html"
+  - name: Heu-MCHC
+    link: "Heu-MCHC.html"
+  - name: ZRHC-*
+    link: "ZRHCstar.html"
+  - name: PIntron
+    link: "http://www.algolab.eu/PIntron"
+  - name: Contacts
+    link: "contacts.html"
+---
