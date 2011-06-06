@@ -4,3 +4,6 @@
 [submodule "_includes/ZRHCstar"]
 	path = _includes/ZRHCstar
 	url = git://github.com/yp/ZRHCstar.git
+[submodule "_includes/reHCstar"]
+	path = _includes/reHCstar
+	url = git://github.com/yp/reHCstar.git

@@ -1,6 +1,7 @@
 
 [HeuMCHC]:  Heu-MCHC.html
 [ZRHCstar]: ZRHCstar.html
+[reHCstar]: reHCstar.html
 [PIntron]:  http://www.algolab.eu/PIntron
 
 [yp]:  http://bimib.disco.unimib.it/index.php/Pirola_Yuri

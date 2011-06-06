@@ -39,7 +39,14 @@ zero-recombinant haplotype configuration with many missing genotypes.
 [**ZRHC-\***][ZRHCstar] has been developed with the advice of
 [Gianluca Della Vedova][gdv].
 
+### reHC-* ###
 
+[**reHC-\***][reHCstar] is a SAT-based program to compute a haplotype
+configuration on pedigrees with recombinations, genotyping errors, and
+missing genotypes.
+
+[**reHC-\***][reHCstar] has been developed with the advice of
+[Gianluca Della Vedova][gdv].
 
 ## Alternative Splicing and Gene Structure Prediction ##
 

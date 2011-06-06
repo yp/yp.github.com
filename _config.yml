@@ -8,6 +8,8 @@ nav:
     link: "Heu-MCHC.html"
   - name: ZRHC-*
     link: "ZRHCstar.html"
+  - name: reHC-*
+    link: "reHCstar.html"
   - name: PIntron
     link: "http://www.algolab.eu/PIntron"
   - name: Contacts
