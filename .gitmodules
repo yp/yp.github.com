@@ -1,9 +1,0 @@
-[submodule "_includes/Heu-MCHC"]
-	path = _includes/Heu-MCHC
-	url = git://github.com/yp/Heu-MCHC.git
-[submodule "_includes/ZRHCstar"]
-	path = _includes/ZRHCstar
-	url = git://github.com/yp/ZRHCstar.git
-[submodule "_includes/reHCstar"]
-	path = _includes/reHCstar
-	url = git://github.com/yp/reHCstar.git
